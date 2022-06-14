@@ -15,7 +15,7 @@ Design (Software Development), Programming Methods, HTML & CSS, Bootstrap, JavaS
 
 ## Examples of Work
 
-<img src="images/20220614_130242.gif" width="200"/>
+[<img src="images/20220614_130242.gif" width="200"/>](https://henrycode460.github.io/html_Capstone_Project/) 
 
 
 - 🔭 I’m currently working on my personal projects 
