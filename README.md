@@ -9,8 +9,8 @@ I am a Full-stack developer, and a computer system engineer. Currently, technolo
 
 ## Skills and Experience
 + :computer: HTML & CSS
-+ :beginner: JavaScript
-+ :package: React
++ :beginner: JAVASCRIPT
++ :package: REACT
 
 ## Examples of Work
 
