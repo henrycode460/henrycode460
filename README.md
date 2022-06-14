@@ -14,8 +14,8 @@ Design (Software Development), Programming Methods, HTML & CSS, Bootstrap, JavaS
 + :package: React
 
 ## Examples of Work
-![work example](/images/20220614_130242.gif)
 
+<img src="images/20220614_130242.gif" width="200"/>
 
 
 - 🔭 I’m currently working on my personal projects 
