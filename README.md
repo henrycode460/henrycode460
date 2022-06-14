@@ -13,6 +13,9 @@ Design (Software Development), Programming Methods, HTML & CSS, Bootstrap, JavaS
 + :beginner: JavaScript
 + :package: React
 
+## Examples of Work
+![work example](/images/20220614_130242.gif)
+
 
 
 - 🔭 I’m currently working on my personal projects 
