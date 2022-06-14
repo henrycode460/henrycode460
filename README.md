@@ -25,6 +25,12 @@ I am a Full-stack developer, and a computer system engineer. Currently, technolo
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henrycode460)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/henry-varflay-singbeh-75707b229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/460code)  
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=henrycode460)](https://skyline.github.com/henrycode460/2021)
+## Contribution Statistics
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=henrycode460)]
+
+## Github Statics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrycode460)]
+
+
 
 
