@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Henry V. Singbeh
 #### I am a Full-Stack Developer with basic knowledge in Web 3.0
-![I am a Full-Stack Developer with basic knowledge in Web 3.0](https://twitter.com/460code/header_photo)
+![I am a Full-Stack Developer with basic knowledge in Web 3.0](/images/Henry%20V.%20SINGBEH%20.png)
 
 I am a Full-stack developer, and a computer system engineer. Currently technologies that I had covered and have rheostat over are but not limited to: System Analysis and
 Design (Software Development), Programming Methods, HTML & CSS, Bootstrap, JavaScript, and C++,. Through my problems solving ability and my level of understanding as it relate to what I have been thought – I have been able to develop or create a working application as an end of model project for each of the model mentioned above. Along with my Software development skill, I’m also have a Diploma in System Engineering .
