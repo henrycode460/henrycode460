@@ -14,7 +14,7 @@ I am a Full-stack developer, and a computer system engineer. Currently, technolo
 
 ## Examples of Work
 
-[(<img src="images/20220614_130242.gif" width="200"/>)](https://henrycode460.github.io/html_Capstone_Project/) 
+[<img src="images/20220614_130242.gif" width="200"/>](https://henrycode460.github.io/html_Capstone_Project/) 
 
 
 - 🔭 I’m currently working on my personal projects 
