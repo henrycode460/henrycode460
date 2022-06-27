@@ -9,10 +9,6 @@ Hello, I’m Henry V. Singbeh Full-stack developer, and a computer system engine
 
 Currently, technologies that I have covered and have control over are but not limited to: System Analysis and Design (Software Development), Programming Methods, HTML & CSS, Bootstrap, JavaScript, and C++. Through my problem solving ability and my level of understanding as it relates to what I have been taught – I have been able to develop or create a working application for each of the technologies mentioned above. 
 
-I have heard about your company when attending a Full Stack developer conference hosted in Dubai; most of the speaker's reference your institution as the number one hiring institution who hired based on merit. And I also experienced the uniqueness of your products and I definitely came to the conclusion that you are “First among Equal”. 
-
-I will appreciate it if you can grant me a 20 minutes zoom meeting at your convenient time to discuss more on your career trajectory.  
-
 
 
 ## Skills and Experience
