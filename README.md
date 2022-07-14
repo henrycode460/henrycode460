@@ -5,9 +5,9 @@
 #### I am a Full-Stack Developer with basic knowledge in Web 3.0
 ![I am a Full-Stack Developer with basic knowledge in Web 3.0](/images/Henry%20V.%20SINGBEH%20(2).png)
 
-Hello, I’m Henry V. Singbeh Full-stack developer, and a computer system engineer who have been opportune to work in the information and technology industry for the past four years where I served as an IT Technician under a very stressful and intensive team working environment that gives me the abilities to work under pressure and as a great team member. 
+Hello, I’m Henry V. Singbeh Full-stack developer, and a computer system engineer who has been opportune to work in the information and technology industry for the past four years. I served as an IT Technician working in a very stressful and intensive team working environment. I also did an internship at IPMC Ghana from June 2020 to July 2021 as a frontend developer; working with HTML, CSS, JavaScript, and WordPress, where I was required to apply effective and efficient time management abilities. 
 
-Currently, technologies that I have covered and have control over are but not limited to: System Analysis and Design (Software Development), Programming Methods, HTML & CSS, Bootstrap, JavaScript, and C++. Through my problem solving ability and my level of understanding as it relates to what I have been taught – I have been able to develop or create a working application for each of the technologies mentioned above. 
+I am currently studying HTML, CSS, JAVASCRIPT, REACT JS, RUBY, RAIL, AND SQL Database as an international remote developer at Microverse, a remote software development program that uses pair programming and project building to teach development. After my study, I will look forward to getting hired by employers who need international remote developers in any of those technologies mentioned above. 
 
 
 
